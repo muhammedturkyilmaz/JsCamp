@@ -96,7 +96,7 @@ console.log(icAnadoluSehirleri)
 
 let newProductName, newUnitPrice, newQuantity
 ({productName:newProductName, unitPrice:newUnitPrice, quantity:newQuantity } 
-= {productName:"Elma", unitPrice:10, quantity:5})
+= {productName:"Elma", unitPrice:10, quantity:4})
 
 console.log(newProductName)
 console.log(newUnitPrice)
